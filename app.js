@@ -22,7 +22,7 @@ if (app.get("env") === "developmant") {
   //console.log("Morgan habilitado...")  
   debug("Morgan esta habilitado");
 }
-
+//yoyo
 //Trabajo con base de datos
 debug("Conectando con la db...");
 
